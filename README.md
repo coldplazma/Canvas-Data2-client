@@ -2,6 +2,8 @@
 
 The DAP Query App is a Python application that allows users to query data from the DAP (Data Access Point) API provided by Instructure Canvas. It provides a graphical user interface (GUI) for specifying query parameters and downloading the data in various formats.
 
+![DAP Query App Screenshot](screenshots/DAPclientImage.PNG)
+
 ## Libraries Used
 
 The following libraries are used in this application:
